@@ -546,6 +546,13 @@ footer {
         -webkit-text-size-adjust: 100%;
     }
 
+    .numero-telefone {
+        font-size: 1.5rem;
+        letter-spacing: 0rem;
+        text-align: center;
+        white-space: nowrap;
+    }
+
 
 }
 

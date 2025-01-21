@@ -536,6 +536,15 @@ footer {
         background-color: var(--color-01);
         
     }*/
+    .icones-contatos p {
+        margin: 0.5rem 0 0;
+        font-size: 0.9rem;
+        color: var(--text-color);
+    }
+
+    .icones-contatos a {
+        -webkit-text-size-adjust: 100%;
+    }
 
 
 }

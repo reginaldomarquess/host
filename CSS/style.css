@@ -195,6 +195,12 @@ span {
     /*TESTE*/
 }
 
+.icones-contatos p {
+    margin: 0.5rem 0 0;
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
 .icones-contatos a {
     display: inline-flex;
     justify-content: center;
